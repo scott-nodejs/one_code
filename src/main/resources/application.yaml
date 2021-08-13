@@ -1,0 +1,10 @@
+server:
+  port: 9080
+  servlet:
+    context-path: /oneCode
+spring:
+  application:
+    name: app-talk
+  profiles:
+    active: dev
+
